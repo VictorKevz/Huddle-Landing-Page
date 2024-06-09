@@ -1,0 +1,26 @@
+.CTA-container{
+    max-width: 800px;
+    min-height: 280px;
+    width: 100%;
+    border-radius: 15px;
+    margin: 0 auto -96px auto;
+    text-align: center;
+    box-shadow: 3px 3px 3px hsl(0, 0%, 59%, 0.1), -5px -5px 5px hsl(0, 0%, 59%, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    z-index: 2;
+    position: relative;
+
+    
+    
+    
+
+}
+.CTA-container>a{
+    text-align: center;
+    margin: 38px auto 0 auto;
+
+}
